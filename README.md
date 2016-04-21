@@ -25,7 +25,7 @@ Please note that the first example script requires the text file n2-filtered inc
 #### Acknowledgments
 The Multiscale Poincaré Plot (MSP) software package was developed at the Wyss Institute for Biologically Inspired Engineering at Harvard University and Beth Israel Deaconess Medical Center/Harvard Medical School by Teresa S. Henriques, Sara Mariani and Anton Burykin. 
 
-A detailed description can be found at:
+When referencing this software, please cite:
 [Henriques TS, Mariani S, Burykin A, Rodrigues F, Silva TF, Goldberger AL. Multiscale Poincaré plots for visualizing the structure of heartbeat time series.  BMC Medical Informatics and Decision Making. 2016 Feb 9;16(1):1.]( http://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-016-0252-0)
 
 #### Licensing
