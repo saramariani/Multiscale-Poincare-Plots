@@ -23,12 +23,15 @@ The functions have been tested on Matlab R2010b, R2014b and R2015a on April 11 2
 Please note that for loading the time series, the MATLAB version of the wfdb library (http://physionet.org/physiotools/matlab/wfdb-app-matlab/) must be installed.
 
 #### Acknowledgments
-The Multiscale Poincaré Plot (MSP) software package was developed by Teresa S. Henriques, Sara Mariani and Anton Burykin. A detailed description can be found at:
+The Multiscale Poincaré Plot (MSP) software package was developed at the Wyss Institute for Biologically Inspired Engineering at Harvard University and Beth Israel Deaconess Medical Center/Harvard Medical School by Teresa S. Henriques, Sara Mariani and Anton Burykin. 
+
+A detailed description can be found at:
 Henriques TS, Mariani S, Burykin A, Rodrigues F, Silva TF, Goldberger AL. Multiscale Poincaré plots for visualizing the structure of heartbeat time series.  BMC Medical Informatics and Decision Making. 2016 Feb 9;16(1):1. url: http://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-016-0252-0
 
 #### More Questions
 Please report bugs and questions at teresasarhen@gmail.com.
 
 #### Related links
+- [Open Source Publication] (http://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-016-0252-0)
 - [National Sleep Research Resource](https://sleepdata.org/)
 - [Physionet: Multiscale Poincaré Plots] (https://physionet.org/physiotools/mpp/)
