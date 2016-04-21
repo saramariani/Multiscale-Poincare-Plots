@@ -1,4 +1,4 @@
-# Multiscale-Poincare-Plots
+Multiscale-Poincare-Plots
 ================
 #### Overview
 Poincaré delay maps are widely used in the analysis of cardiac interbeat interval (RR) dynamics. To facilitate visualization of the structure of these complex time series, we introduced a methodology called  multiscale Poincaré (MSP) plots.
