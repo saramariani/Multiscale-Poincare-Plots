@@ -6,7 +6,7 @@ Briefly, the function MsPplots.m (version 1.0) starts with the original time  an
 
 For illustrations and further information, please refer to the [Multiscale Poincaré Plots Physionet page](https://physionet.org/physiotools/mpp/).
 
-### Sample Input
+#### Input
 Mandatory inputs to the function are:
 - The time series vector with one column (X)
 - The number of time scales (integer; default: scales = 12)
